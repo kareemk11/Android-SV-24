@@ -1,9 +1,12 @@
 class ITI 
 {
-	void printHelloITI
+	void printHelloITI()
 	{
 		
 	}
-	void printHelloGit
+	void printHelloGit()
+	{}
+	
+	void doSomthig()
 	{}
 }

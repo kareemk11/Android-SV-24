@@ -1,0 +1,5 @@
+class NewClass 
+{
+		void printMethod
+		{}
+}

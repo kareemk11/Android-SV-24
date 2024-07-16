@@ -4,6 +4,6 @@ class ITI
 	{
 		
 	}
-	//void printHelloGit
-	//{}
+	void printHelloGit
+	{}
 }

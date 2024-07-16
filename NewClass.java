@@ -1,5 +1,9 @@
-class NewClass 
+class HelloWorld 
 {
-		void printMethod
-		{}
+
+		
+		void HelloWorld
+		{
+			
+		}
 }

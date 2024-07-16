@@ -1,6 +1,6 @@
 class ITI 
 {
-	void printITI
+	void printHelloITI
 	{
 		
 	}

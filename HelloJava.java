@@ -8,4 +8,5 @@ class HelloWorld
 		}
 		void hihi()
 		{}
+		/// this line weitten by a login command
 }

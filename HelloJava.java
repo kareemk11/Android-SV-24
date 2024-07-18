@@ -6,4 +6,6 @@ class HelloWorld
 		{
 			
 		}
+		void hihi()
+		{}
 }
